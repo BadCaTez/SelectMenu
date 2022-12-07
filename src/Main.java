@@ -20,7 +20,7 @@ public class Main extends JFrame {
 
     public Main(){
         super("Меню заданий");
-        setSize(600,300);
+        setSize(450,200);
 
         add(but1);
         but1.setBounds(50,0,100,25);
